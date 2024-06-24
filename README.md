@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Arifs75/MY_CV/blob/main/pic.jpeg" alt="Profile Picture" width="150px" height="150px">
 
-- **Address:** 169-0051 Shinjuku Nishiwaseda 2-4-14 Furawa house 3-202, Tokyo, Japan
+- **Location:** Tokyo, Japan
 - **Email:** arifmustafa75@gmail.com
 - **Phone:** Please email me first
 
